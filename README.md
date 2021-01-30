@@ -4,7 +4,6 @@
 <hr>
 
 ### I'm a developer who likes create amazing things with different technologies. My strenghts are .NET 🖥, Laravel 🌐 and Swift 📱. I think in the reliability of Open Source and how is changing the modern business oportunities. If you would like colaborate with me don't doubt in contact me:
-<br>
 
  #### 🖥 - Website: <a href="https://angelalvarado.cf">angelalvarado.cf</a>
  #### 📧 - Email: <a href="mailto:contacto@angelalvarado.cf">contacto@angelalvarado.cf</a>
